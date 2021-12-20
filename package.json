@@ -1,0 +1,17 @@
+{
+  "name": "devon_roleplay_bot",
+  "version": "1.0.0",
+  "description": "Dev: Luc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "Luc",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "ms": "^2.1.3",
+    "nodemon": "^2.0.15"
+  }
+}
